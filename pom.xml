@@ -42,6 +42,7 @@
 			<module>clif</module>
 			<module>clojure</module>
 			<module>cobol85</module>
+			<module>cookie</module>			
 			<module>cool</module>
 			<module>cpp</module>
 			<module>creole</module>
@@ -50,6 +51,7 @@
 			<module>csv</module>
 			<module>datetime</module>
 			<module>dcm</module>
+         <module>dice</module>
 			<module>dot</module>
 			<module>ecmascript</module>
 			<module>emailaddress</module>
@@ -114,6 +116,8 @@
 			<module>rcs</module>
 			<module>redcode</module>
 			<module>robotwars</module>
+			<module>romannumerals</module>
+			<module>rpn</module>
 			<module>ruby</module>
 			<module>scala</module>
 			<module>scss</module>
